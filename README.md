@@ -20,18 +20,18 @@
       <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="90">
+<!--     <td align="center" width="90">
       <img src="https://img.icons8.com/external-flat-juicy-fish/60/null/external-network-cyber-security-flat-flat-juicy-fish.png" width="45" height="45" />
       <br>Network Tools
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-terminal-computer-programming-flaticons-lineal-color-flat-icons.png" width="45" height="45" />
       <br>Command Line
     </td>
-    <td align="center" width="90">
+<!--     <td align="center" width="90">
       <img src="https://img.icons8.com/ios/50/null/kali-linux.png" width="45" height="45" />
       <br>Kali Linux
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://img.icons8.com/fluency/48/null/web-shield.png" width="45" height="45" />
       <br>OWASP
